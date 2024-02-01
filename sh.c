@@ -1,5 +1,8 @@
 // Shell.
 
+
+#pragma GCC diagnostic ignored "-Winfinite-recursion"
+
 #include "types.h"
 #include "user.h"
 #include "fcntl.h"
